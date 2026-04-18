@@ -1,0 +1,28 @@
+.not-found {
+  width: 560px;
+  height: 225px;
+}
+.starry-sky {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+.notfound-copy {
+  padding: 0;
+  color: #fff;
+  position: fixed;
+  top: 25px;
+  right: 10%;
+  text-align: right;
+}
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+}
+.all-stars {
+  animation: blinkblink 7s linear infinite;
+}
+@keyframes blinkblink {  
+  50% { opacity: 0.1; }
+}

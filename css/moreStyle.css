@@ -1,0 +1,46 @@
+body {
+  padding-top: 4.5rem;
+  color: #fff;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  background-color: #000;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+a:hover {
+  color: #fff;
+  border-bottom: 2px solid #fff;
+  text-decoration: none;
+}
+.jumbotron {
+  padding-top: 1rem;
+  background-color: #000;
+} 
+.bg-black {
+  background-color: #000 !important;
+}
+.bg-black-transparent {
+  background-color: rgba(0,0,0,0.0) !important;
+}
+li.list-group-item {
+  background-color: #000;
+}
+#myphoto {
+  max-width: 17rem;
+  height: auto;
+}
+.starry-sky {
+  margin-top: -4.5rem;
+  overflow: visible;
+}
+.all-stars {
+  animation: blinkblink 7s linear infinite;
+}
+@keyframes blinkblink {  
+  50% { opacity: 0.1; }
+}
+h1.notfound {
+  padding-top: 10rem;
+  padding-left: 7rem;
+}
