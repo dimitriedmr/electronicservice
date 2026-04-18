@@ -1,9 +1,14 @@
 # electronicservice
 TV repair shop free static website
 
-# to-do
-https://web1.0hosting.net/ redirect to github
+#URLs:
+1. electronicservice.w0.am
+2. electronicservice.w10.site
+3. electronicservice.narod.ws
+4. electronicservice.oldcities.org
+5. dimitriedmr.github.io/electronicservice
 
-https://stackoverflow.com/questions/5411538/how-to-redirect-one-html-page-to-another-on-load
+# added:
+https://web1.0hosting.net/ which redirects to github
 
 
