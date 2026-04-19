@@ -23,9 +23,9 @@ https://t.ly/aWP13
 
 # notes
 
-1. https://web1.0hosting.net/ account links a shorter URL to github website
+1. https://web1.0hosting.net/ account links a short URL to github repo
 
-2. removal of jquery for navbar, https://youmightnotneedjquery.com/
+2. jquery and popper are removed to gain loading speed; https://youmightnotneedjquery.com/
 
 3. redirect html code:
 
