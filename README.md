@@ -35,21 +35,3 @@ https://t.ly/aWP13
 4. local tests: 
 python -m http.server 
 http://localhost:8000
-
-5 loading time (seconds)
-
-https://lightest.app/
-
-## + template
-
-blog = 1.45
-
-simple = 2
-
-ascii = 0.99
-
-echoes1 = 5s
-
-## + page
-
-bootstrap not minimised, navbar, init = 7 * 250ms
