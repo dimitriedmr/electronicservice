@@ -1,14 +1,55 @@
 # electronicservice
+
 TV repair shop free static website
 
-#URLs:
-1. electronicservice.w0.am
-2. electronicservice.w10.site
-3. electronicservice.narod.ws
-4. electronicservice.oldcities.org
-5. dimitriedmr.github.io/electronicservice
+# URLs:
 
-# added:
-https://web1.0hosting.net/ which redirects to github
+https://electronicservice.w0.am
+
+https://electronicservice.w10.site
+
+https://electronicservice.narod.ws
+
+https://electronicservice.oldcities.org
+
+https://dimitriedmr.github.io/electronicservice
+
+# short forms
+
+https://t.ly/Z1HNm
+
+https://t.ly/aWP13
 
 
+# notes
+
+1. https://web1.0hosting.net/ account links a shorter URL to github website
+
+2. removal of jquery for navbar, https://youmightnotneedjquery.com/
+
+3. redirect html code:
+
+<script>var timer = setTimeout(function() {window.location='https://dimitriedmr.github.io/electronicservice/index.html'}, 0);</script>
+<p><a href="https://dimitriedmr.github.io/electronicservice/index.html">Apasa aici pentru a intra!</a></p>
+
+4. local tests: 
+python -m http.server 
+http://localhost:8000
+
+5 loading time (seconds)
+
+https://lightest.app/
+
+## + template
+
+blog = 1.45
+
+simple = 2
+
+ascii = 0.99
+
+echoes1 = 5s
+
+## + page
+
+bootstrap not minimised, navbar, init = 7 * 250ms
