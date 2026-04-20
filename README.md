@@ -33,5 +33,6 @@ https://t.ly/aWP13
 <p><a href="https://dimitriedmr.github.io/electronicservice/index.html">Apasa aici pentru a intra!</a></p>
 
 4. local tests: 
+cd repo_path
 python -m http.server 
 http://localhost:8000
